@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendario>
+  <appuntamento>
+    <id>1</id>
+    <titolo>Cambio olio e filtri</titolo>
+    <inizio>2023-06-15T09:00:00</inizio>
+    <fine>2023-06-15T10:30:00</fine>
+    <cliente>Mario Rossi</cliente>
+    <veicolo>AB123CD</veicolo>
+    <descrizione>Manutenzione ordinaria</descrizione>
+    <tecnico>mario</tecnico>
+    <stato>completato</stato>
+  </appuntamento>
+  <appuntamento>
+    <id>2</id>
+    <titolo>Sostituzione freni</titolo>
+    <inizio>2023-06-20T14:00:00</inizio>
+    <fine>2023-06-20T16:00:00</fine>
+    <cliente>Giuseppe Verdi</cliente>
+    <veicolo>XY987ZW</veicolo>
+    <descrizione>Sostituzione pastiglie freni anteriori e posteriori</descrizione>
+    <tecnico>luigi</tecnico>
+    <stato>aperto</stato>
+  </appuntamento>
+  <appuntamento>
+    <id>3</id>
+    <titolo>Diagnosi elettronica</titolo>
+    <inizio>2023-06-22T11:00:00</inizio>
+    <fine>2023-06-22T12:00:00</fine>
+    <cliente>Anna Bianchi</cliente>
+    <veicolo>ZZ456YY</veicolo>
+    <descrizione>Controllo errori centralina</descrizione>
+    <tecnico>mario</tecnico>
+    <stato>aperto</stato>
+  </appuntamento>
+</calendario>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ricambi>
+  <ricambio>
+    <id>1</id>
+    <codice>FR-123</codice>
+    <descrizione>Pastiglie freno anteriori</descrizione>
+    <marca>Brembo</marca>
+    <prezzo>85.00</prezzo>
+    <quantita>12</quantita>
+    <categoria>Freni</categoria>
+  </ricambio>
+  <ricambio>
+    <id>2</id>
+    <codice>OL-456</codice>
+    <descrizione>Olio motore sintetico 5W-40</descrizione>
+    <marca>Castrol</marca>
+    <prezzo>45.00</prezzo>
+    <quantita>25</quantita>
+    <categoria>Lubrificanti</categoria>
+  </ricambio>
+</ricambi>

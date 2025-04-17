@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<veicoli>
+  <veicolo>
+    <id>1</id>
+    <targa>AB123CD</targa>
+    <marca>Fiattone</marca>
+    <modello>Panda</modello>
+    <anno>2018</anno>
+    <km>45000</km>
+    <cliente>Mario Rossi</cliente>
+  </veicolo>
+  <veicolo>
+    <id>2</id>
+    <targa>XY987ZW</targa>
+    <marca>Volkswagen</marca>
+    <modello>Golf</modello>
+    <anno>2020</anno>
+    <km>25000</km>
+    <cliente>Giuseppe Verdi</cliente>
+  </veicolo>
+</veicoli>

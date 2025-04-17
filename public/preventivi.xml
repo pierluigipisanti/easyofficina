@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documenti>
+  <documento>
+    <id>1</id>
+    <tipo>preventivo</tipo>
+    <cliente>Mario Rossi</cliente>
+    <veicolo>AB123CD</veicolo>
+    <descrizione>Sostituzione freni e revisione impianto frenante</descrizione>
+    <importo>350.00</importo>
+    <data>2023-06-15</data>
+  </documento>
+  <documento>
+    <id>2</id>
+    <tipo>fattura</tipo>
+    <cliente>Giuseppe Verdi</cliente>
+    <veicolo>XY987ZW</veicolo>
+    <descrizione>Cambio olio, filtri e controllo generale</descrizione>
+    <importo>180.00</importo>
+    <data>2023-06-20</data>
+  </documento>
+</documenti>

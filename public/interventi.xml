@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interventi>
+  <intervento>
+    <id>1</id>
+    <data>2023-06-15</data>
+    <cliente>Mario Rossi</cliente>
+    <veicolo>AB123CD</veicolo>
+    <problema>Sostituzione freni</problema>
+    <tecnico>mario</tecnico>
+    <stato>completato</stato>
+  </intervento>
+  <intervento>
+    <id>2</id>
+    <data>2023-06-20</data>
+    <cliente>Giuseppe Verdi</cliente>
+    <veicolo>XY987ZW</veicolo>
+    <problema>Cambio olio e filtri</problema>
+    <tecnico>luigi</tecnico>
+    <stato>aperto</stato>
+  </intervento>
+</interventi>

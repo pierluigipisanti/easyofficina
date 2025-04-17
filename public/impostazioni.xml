@@ -1,0 +1,17 @@
+mo la logica per usare questi file piuttosto che il localstorage.<?xml version="1.0" encoding="UTF-8"?>
+<impostazioni>
+  <azienda>
+    <nome></nome>
+    <indirizzo></indirizzo>
+    <piva></piva>
+    <telefono></telefono>
+    <email></email>
+    <logo></logo>
+  </azienda>
+  <sistema>
+    <tema>light</tema>
+    <lingua>it</lingua>
+    <valuta>EUR</valuta>
+    <formato_data>dd/MM/yyyy</formato_data>
+  </sistema>
+</impostazioni>

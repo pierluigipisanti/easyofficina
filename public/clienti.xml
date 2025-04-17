@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clienti>
+  <cliente>
+    <id>1</id>
+    <nome>Mario</nome>
+    <cognome>Rossi</cognome>
+    <email>mario.rossi@example.com</email>
+    <telefono>3331234567</telefono>
+    <indirizzo>Via Roma 123, Milano</indirizzo>
+  </cliente>
+  <cliente>
+    <id>2</id>
+    <nome>Giuseppe</nome>
+    <cognome>Verdi</cognome>
+    <email>giuseppe.verdi@example.com</email>
+    <telefono>3387654321</telefono>
+    <indirizzo>Via Garibaldi 45, Roma</indirizzo>
+  </cliente>
+</clienti>
